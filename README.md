@@ -37,7 +37,7 @@ export ORGANIZATION_NAME="terraform-tom"
 
 ## GPG Keys
 
-You will need a GPG key that was used to sign provider binaries.
+You will need a GPG key that was used to sign provider binaries. You can find them here : https://www.hashicorp.com/security
 
 A Public GPG Key will have format such as this:
 
