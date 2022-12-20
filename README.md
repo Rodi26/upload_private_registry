@@ -70,7 +70,7 @@ PUBLIC_GPG_FILE="./GPG_Public/C874011F0AB405110D02105534365D9472D7468F.asc" \
 ### Private Providers
 
 For more information on how to generate your own [GPG Key](gpg.md).
-https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key
+hhttps://developer.hashicorp.com/terraform/tutorials/providers/provider-release-publish?in=terraform%2Fproviders#generate-gpg-signing-key
 
 Place your public GPG key in the `keys/` directory, 
 
